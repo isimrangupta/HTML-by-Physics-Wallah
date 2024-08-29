@@ -1,0 +1,3 @@
+2. Discuss the various career paths available after completing a web development course?
+
+While embarking on a journey in web development, one must choose between front-end, back-end, or full-stack development. If you choose front-end development, you will work with technologies related to the user interface and user experience. Similarly, if you choose back-end development, you will work with technologies that handle server-side logic and databases. Opting for full-stack development means you will gain expertise in both front-end and back-end technologies, allowing you to work on all aspects of web development.

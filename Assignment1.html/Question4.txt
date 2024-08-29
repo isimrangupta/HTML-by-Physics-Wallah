@@ -1,0 +1,7 @@
+4. What are the advantages of using a version control system like Git in a development project?
+
+Version Control System (VCS) is a software tool that assists developers in managing code changes and collaborating on projects effectively.  It allows us to keep track of modifications that's mean You can easily see what changes have been made to the code and when. If an issue arises, you can quickly identify which change caused the problem. If new changes create problems, you can easily revert to a previous version. This helps prevent your work from getting messed up. Multiple developers can work on the same codebase simultaneously without conflicts. Tools like Git use features such as merging and branching to allow team members to work on different tasks and then merge changes together.
+Git and similar VCS tools provide features for code reviews, issue tracking, and collaboration, which make the development process smoother and more efficient.
+
+
+Overall, VCS tools like Git help in maintaining a well-organized, reliable, and collaborative development environment.

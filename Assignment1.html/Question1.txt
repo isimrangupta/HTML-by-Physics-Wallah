@@ -1,0 +1,39 @@
+1. Explain the main components of client-server architecture and their function?
+
+Client:
+A client is an application or device that communicates with a server over a network. It sends a request to the server, and the server accepts the request and sends a response back to the client, which then provides it to the user.
+
+Server:
+A server can be a physical machine or a software process that accepts requests from a client, processes the request, and sends the processed data back to the client as a response.
+
+Client-Server Architecture:-
+A client sends a request to the server, which includes a URL indicating the required page or data. The server receives the request, processes it, and prepares the data. The server then sends the prepared data back to the client, and the client displays the information received from the server. This interaction happens over a network, allowing clients and servers to be located in different geographical locations.
+
+
+Example:
+When you type "google.com," your browser sends a request to Google's server. 
+The Google server processes your request and prepares the Google home page. 
+The Google server then sends the home page to your browser, 
+and your browser displays the Google home page on your screen. 
+All these work is done through the network.
+
+
+
+------------      Request      ----------------
+|  Client   |  ------------->  |    Server     |
+------------                    ----------------
+    |                                 |
+    |         Response                |
+    | <--------------------------------
+        
+
+Client-Server Function:--
+1.Client Functions:
+(a) Requests services or resources.
+(b) Displays responses to the user.
+(c) Handles user interactions and inputs.
+
+2.Server Functions:
+(a) Processes requests from clients.
+(b) Stores and manages data.
+(c) Sends responses back to clients.

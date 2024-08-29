@@ -1,0 +1,7 @@
+3. Describe the role of a web browser's developer tools in web development?
+
+Web browser:-
+Web browsers are software applications used to access and view websites on the internet. Examples include Google Chrome, Mozilla Firefox ect.
+
+ Developer tools:-
+Developer tools, or DevTools, are built-in features of modern web browsers that help developers inspect, debug, and analyze web pages. With developer tools (DevTools), you can view and modify the code of a web page. You can inspect and change the structure and styling of HTML and CSS. These features are very useful for web development and debugging.

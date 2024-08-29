@@ -1,0 +1,11 @@
+4. Write a short note on Tag and Element with an example?
+
+tAG:-
+Tags define the start and end of an element. They are written in angle brackets:
+Opening tag: <tag>
+Closing tag: </tag>  
+Example:- <h1></h1> 
+
+Element:-
+Elements include the opening tag, content, and closing tag. They define the structure and content of the web page. 
+Example:- <h1>This is a Heading</h1>

@@ -1,0 +1,3 @@
+5.What is the DOCTYPE Declaration in HTML?
+
+DOCTYPE Declaration is written at the beginning of an HTML document and informs the browser about which version of HTML the document is using. Example: <!DOCTYPE html>. It ensures that the webpage renders correctly.

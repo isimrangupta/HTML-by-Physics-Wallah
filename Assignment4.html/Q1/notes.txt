@@ -1,0 +1,14 @@
+1. list out the features of HTML5?
+
+The features of HTML5:-
+(a) New Elements, Attributes, and Behaviors: HTML5 introduces new elements and attributes, supports multimedia, and provides better error handling.
+
+(b) New Tags: Tags like ~<article>~, `<aside>`, and `<figure>` offer improved semantic structure.
+
+(c) Enhanced Forms: New input types such as `email`, `date`, `time`, `number`, and `range` enhance form functionality.
+
+(d) Built-in Audio and Video Support: The <audio> and <video> elements enable easy embedding of media.
+
+(e) Local Storage: The Web Storage API (localStorage and sessionStorage) allows for client-side data storage, enabling offline use.
+
+(f) Graphics and Animation: The <canvas> element and SVG support advanced graphics and animations.
